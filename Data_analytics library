@@ -1,0 +1,133 @@
+# ===============================
+# CORE PYTHON UTILITIES
+# ===============================
+numpy
+pandas
+scipy
+pyarrow
+fastparquet
+openpyxl
+xlrd
+xlsxwriter
+python-dateutil
+pytz
+
+# ===============================
+# DATA VISUALIZATION
+# ===============================
+matplotlib
+plotly
+seaborn
+bokeh
+altair
+folium
+wordcloud
+geopandas
+dash
+streamlit
+
+# ===============================
+# MACHINE LEARNING & AI
+# ===============================
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+mlxtend
+imbalanced-learn
+tensorflow
+torch
+transformers
+
+# ===============================
+# NLP & TEXT PROCESSING
+# ===============================
+nltk
+spacy
+gensim
+textblob
+langdetect
+sentence-transformers
+tqdm
+
+# ===============================
+# DATABASE CONNECTORS
+# ===============================
+sqlalchemy
+psycopg2-binary
+pymysql
+cx_Oracle
+pyodbc
+snowflake-connector-python
+google-cloud-bigquery
+redshift-connector
+
+# ===============================
+# DATA PIPELINES / ETL
+# ===============================
+pyyaml
+boto3
+requests
+pandas-gbq
+dask
+prefect
+airflow
+luigi
+
+# ===============================
+# CLOUD / API / FILE I/O
+# ===============================
+google-api-python-client
+google-auth
+azure-storage-blob
+s3fs
+gcsfs
+fastapi
+uvicorn
+flask
+pydantic
+
+# ===============================
+# DATA VALIDATION / TESTING
+# ===============================
+great-expectations
+pytest
+pytest-cov
+datatest
+pandera
+
+# ===============================
+# DOCUMENTATION / REPORTING
+# ===============================
+jinja2
+markdown
+fpdf
+reportlab
+pdfkit
+
+# ===============================
+# DASHBOARDS / BI
+# ===============================
+streamlit
+dash
+panel
+voila
+
+# ===============================
+# AUTOMATION / UTILITY
+# ===============================
+tqdm
+click
+loguru
+colorama
+dotenv
+schedule
+
+# ===============================
+# NOTEBOOK SUPPORT
+# ===============================
+jupyter
+jupyterlab
+ipykernel
+notebook
